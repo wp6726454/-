@@ -1,0 +1,4 @@
+# -
+类脑智能课程作业代码
+文件myNeuralNetworkFunction1.m，myNeuralNetworkFunction2.m，myNeuralNetworkFunction3.m分别代表不同的网络节点数，用来研究网络节点数对模型的影响
+另一个文件夹代码用来研究迭代次数对模型预测结果的影响
